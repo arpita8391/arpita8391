@@ -24,7 +24,7 @@ Currently learning **PHP** and exploring backend development.
 ---
 
 ### 📫 Connect with Me
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [your.email@example.com](mailto:arpita)
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin)
 
 ---
