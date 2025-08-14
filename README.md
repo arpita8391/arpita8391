@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Arpita Roy 👋
 
-<!--
-**arpita8391/arpita8391** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Passionate Web Developer**  
+Currently learning **PHP** and exploring backend development.  
 
-Here are some ideas to get you started:
+🌱 I’m on a journey to build clean, user-friendly, and efficient web solutions.  
+📂 Check out my repositories to see my learning process and projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Technologies & Tools
+- HTML, CSS, JavaScript
+- PHP (learning in progress 🚀)
+- MySQL
+- Git & GitHub
+
+---
+
+### 📈 Current Goals
+- Master PHP fundamentals
+- Build a complete CRUD web application
+- Learn MVC architecture
+
+---
+
+### 📫 Connect with Me
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin)
+
+---
+
+⭐ **Fun Fact:** I believe a great website is like a good cup of coffee — strong, smooth, and energizing ☕
